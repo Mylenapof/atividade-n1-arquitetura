@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.card-header i {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+button i {
+  vertical-align: middle;
+  margin-right: 3px;
+}
