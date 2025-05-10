@@ -25,4 +25,6 @@ O objetivo é construir uma aplicação **Full Stack** para gerenciamento de cel
 ```bash
 git clone https://github.com/Mylenapof/atividade-n1-arquitetura.git
 cd atividade-n1-arquitetura
+## 📷 Screenshot do Projeto
 
+![Screenshot do Projeto](frontend/screenshot.png)
